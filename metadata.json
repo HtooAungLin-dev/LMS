@@ -1,0 +1,6 @@
+{
+  "name": "HAL SuccessFactors Learning",
+  "description": "Enterprise LMS with HAL design, role-based access control, interactive course management dashboards, and advanced compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
